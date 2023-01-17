@@ -1,0 +1,19 @@
+Summary of pictures stored in ROM ROM_img.vhd :
+
+--ronflex_back.ppm : from 0 to 4095
+--ronflex_front.ppm : from 4096 to 8191
+--mew_back.ppm : from 8192 to 12287
+--mew_front.ppm : from 12288 to 16383
+--rayquaza_back.ppm : from 16384 to 20479
+--rayquaza_front.ppm : from 20480 to 24575
+--torterra_back.ppm : from 24576 to 28671
+--torterra_front.ppm : from 28672 to 32767
+--brasegali_back.ppm : from 32768 to 36863
+--brasegali_front.ppm : from 36864 to 40959
+--pikachu_back.ppm : from 40960 to 45055
+--pikachu_front.ppm : from 45056 to 49151
+--ectoplasma_back.ppm : from 49152 to 53247
+--ectoplasma_front.ppm : from 53248 to 57343
+--tiplouf_back.ppm : from 57344 to 61439
+--tiplouf_front.ppm : from 61440 to 65535
+--end : 65536

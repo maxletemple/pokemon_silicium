@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "rom.h": "c",
+        "stdlib.h": "c",
+        "cmath": "c"
+    }
+}

@@ -1,0 +1,11 @@
+Summary of pictures stored in ROM pokemons.vhd :
+
+--tiplouf_back.ppm : from 0 to 4899
+--tiplouf_front.ppm : from 4900 to 8995
+--ectoplasma_back.ppm : from 8996 to 13895
+--ectoplasma_front.ppm : from 13896 to 17991
+--pika_back.ppm : from 17992 to 22891
+--pika_front.ppm : from 22892 to 26987
+--galeking_back.ppm : from 26988 to 31887
+--galeking_front.ppm : from 31888 to 35983
+--end : 35984

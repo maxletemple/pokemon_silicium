@@ -1,0 +1,12 @@
+
+{ 
+    crc :  8316849336931458510  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 161471b9bd0947c3a025354f4df2a836 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot game_logic_top_tb_behav xil_defaultlib.game_logic_top_tb" , 
+    buildDate : "Jun 10 2021" , 
+    buildTime : "19:45:28" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--no-as-needed  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/game_logic_top_tb_behav/xsimk\"   \"xsim.dir/game_logic_top_tb_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/game_logic_top_tb_behav/obj/xsim_1.lnx64.o\" -L\"/home/mletemple/snap/Xilinx/Vivado/2021.1/lib/lnx64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

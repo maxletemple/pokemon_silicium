@@ -1,0 +1,4 @@
+Summary of pictures stored in ROM arena.vhd :
+
+--arena.ppm : from 0 to 28159
+--end : 28160

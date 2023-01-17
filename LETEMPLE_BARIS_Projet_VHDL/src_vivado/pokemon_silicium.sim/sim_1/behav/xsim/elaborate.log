@@ -1,0 +1,26 @@
+Vivado Simulator v2021.1
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: /home/mletemple/snap/Xilinx/Vivado/2021.1/bin/unwrapped/lnx64.o/xelab -wto 161471b9bd0947c3a025354f4df2a836 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot game_logic_top_tb_behav xil_defaultlib.game_logic_top_tb -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling architecture behavioral of entity xil_defaultlib.Input2Position [input2position_default]
+Compiling architecture bhv of entity xil_defaultlib.fsm_menu [fsm_menu_default]
+Compiling architecture behavioral of entity xil_defaultlib.Stats_Types [stats_types_default]
+Compiling architecture behavioral of entity xil_defaultlib.type_table [type_table_default]
+Compiling architecture behavioral of entity xil_defaultlib.damage_calculator [damage_calculator_default]
+Compiling architecture behavioral of entity xil_defaultlib.efficiency_test [efficiency_test_default]
+Compiling architecture behavioral of entity xil_defaultlib.life_enabler [life_enabler_default]
+Compiling architecture behavioral of entity xil_defaultlib.life_register [life_register_default]
+Compiling architecture behavioral of entity xil_defaultlib.one_dead_tester [one_dead_tester_default]
+Compiling architecture behavioral of entity xil_defaultlib.life_selector [life_selector_default]
+Compiling architecture behavioral of entity xil_defaultlib.game_logic_top [game_logic_top_default]
+Compiling architecture bench of entity xil_defaultlib.game_logic_top_tb
+Built simulation snapshot game_logic_top_tb_behav
