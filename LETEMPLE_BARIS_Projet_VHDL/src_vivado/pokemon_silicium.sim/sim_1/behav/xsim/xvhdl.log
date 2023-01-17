@@ -1,8 +1,0 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "/home/mletemple/Documents/Cours/pokemon_silicium/src_vivado/sources/design/game/FSM_menu.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'fsm_menu'
-INFO: [VRFC 10-163] Analyzing VHDL file "/home/mletemple/Documents/Cours/pokemon_silicium/src_vivado/sources/design/game/Stats_Types.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'Stats_Types'
-INFO: [VRFC 10-163] Analyzing VHDL file "/home/mletemple/Documents/Cours/pokemon_silicium/src_vivado/sources/design/game/damage_calculator.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'damage_calculator'
-INFO: [VRFC 10-163] Analyzing VHDL file "/home/mletemple/Documents/Cours/pokemon_silicium/src_vivado/sources/design/game/life_enabler.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'life_enabler'
